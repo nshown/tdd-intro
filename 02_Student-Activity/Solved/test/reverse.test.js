@@ -17,5 +17,4 @@ describe('Testing the reverseString function', () => {
   test('sif reverse string of "12345" returns "54321"', () => {
     expect(reverseString("12345")).toEqual("54321");
   });
-
 });
